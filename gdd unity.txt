@@ -1,0 +1,59 @@
+resumo da historia
+
+o personagem principal tem como desafio vencer tdos os obstaculos
+vencendo o tempo e capturando o maximo moedas, e chaves a cada
+5 fases temos um chefão,o jogo termina forem encotrada 
+tdas as chaves do jogo
+
+gameplay 
+
+os personagens tem que derrotar os viloes e coletar o maximo
+de objetos e chaves no cenario
+
+genero
+
+Aventura,
+
+publico alvo
+pessoas que gostam de desafios, e aventura 
+com faixaetaria acima de 3anos
+
+
+movimentação do personagem
+
+a movimentação do personagem de da pelas setas direita esquerda, 
+pulo na barra de espaço
+
+
+MENUS
+Relação das telas que contêm menus de seleção:
+
+Menu inicial. 
+Os jogadores visualizarão os seguintes itens:
+
+o Novo Jogo 
+- Leva o usuário ao inicio de uma nova partida. Outras
+informações são solicitadas antes do inicio efetivo do jogo.
+
+o Carregar jogo -
+ Carrega em memória o estado do último jogo salvo e
+inicia a partida.
+o Ajuda 
+- Exibe informações que auxiliam o jogador.
+
+o Sair - 
+Encerra e retorna ao sistema operacional
+
+Menu escolha de dificuldade.
+o Fácil
+o Normal
+o Difícil
+
+Menu de pausa. Exibido na tela de pausa, acionada a qualquer momento
+durante a partida.
+o Voltar - Retorna a partida
+o Sair - Encerra a partida e retorna ao menu inicial.
+o Salvar - Salva o estado do jogo e retorna a partida.
+
+
+
